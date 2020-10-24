@@ -1,0 +1,14 @@
+//flexbox generelt
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+//navbar
+https://www.w3schools.com/css/css_navbar_horizontal.asp
+
+//bilde
+https://stock.adobe.com/no/search?k=virtual+reality+construction&asset_id=221723374
+
+//scaling
+https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
+
+//footer
+https://www.w3schools.com/howto/howto_css_fixed_footer.asp
